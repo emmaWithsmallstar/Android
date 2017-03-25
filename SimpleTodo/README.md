@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 * [x] User can **persist todo items** and retrieve them properly on app restart
 
 ## Video Walkthrough
-Here is the GIF Walkthrough
+
 ![](https://github.com/emmaWithsmallstar/Android/blob/master/SimpleTodo/SimpleTodoAppAndroid.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
