@@ -16,6 +16,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 Here is the GIF Walkthrough
+![](https://github.com/emmaWithsmallstar/Android/blob/master/SimpleTodo/SimpleTodoAppAndroid.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
